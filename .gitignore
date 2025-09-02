@@ -1,0 +1,13 @@
+old/
+*.o
+*.a
+*.so
+build/
+.DS_Store
+*.swp
+*~
+.vscode/
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
