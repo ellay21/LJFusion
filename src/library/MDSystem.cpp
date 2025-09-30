@@ -743,3 +743,4 @@ void MDSystem::setHardwareMode(bool useCUDA)
   m_config.useCUDA = useCUDA;
   ReallocateMemory();
 }
+// Particle initialization
