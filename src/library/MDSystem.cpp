@@ -744,3 +744,4 @@ void MDSystem::setHardwareMode(bool useCUDA)
   ReallocateMemory();
 }
 // Particle initialization
+// NVE ensemble
