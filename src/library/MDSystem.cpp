@@ -745,3 +745,4 @@ void MDSystem::setHardwareMode(bool useCUDA)
 }
 // Particle initialization
 // NVE ensemble
+// TVN thermostat
