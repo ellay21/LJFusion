@@ -747,3 +747,4 @@ void MDSystem::setHardwareMode(bool useCUDA)
 // NVE ensemble
 // TVN thermostat
 // Periodic BC
+// Hard-wall BC
