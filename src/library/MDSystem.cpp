@@ -748,3 +748,4 @@ void MDSystem::setHardwareMode(bool useCUDA)
 // TVN thermostat
 // Periodic BC
 // Hard-wall BC
+// RDF calculation
