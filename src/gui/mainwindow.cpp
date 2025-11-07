@@ -468,3 +468,4 @@ int MainWindow::getBoundaryCondition()
     return 1;
   return 2;
 }
+// Stats display
