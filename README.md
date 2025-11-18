@@ -48,16 +48,12 @@ The simulator can explore all major phases of the Lennard-Jones system:
 *Low density, high temperature regime showing diffuse particle distribution.*
 
 #### Mixed Phase (T* = 1, ρ* = 0.3)
-![Mixed Phase](src/gui/images/mixed-T1.0-rho0.3.png)
+![Mixed Phase](src/gui/images/mixed-T1-rho0.3.png)
 *Coexistence of gas and liquid phases.*
 
-#### Liquid Phase (T* = 0.75, ρ* = 0.8)
-![Liquid Phase](src/gui/images/liquid-T0.75-rho0.8.png)
+#### Liquid Phase (T* = 1, ρ* = 0.85)
+![Liquid Phase](src/gui/images/liquid-T1-rho0.85.png)
 *High density, low temperature showing dense particle packing.*
-
-#### Solid Phase (T* = 0.5, ρ* = 0.9)
-![Solid Phase](src/gui/images/solid-T0.5-rho0.9.png)
-*Very low temperature exhibiting crystalline ordering.*
 
 ---
 
